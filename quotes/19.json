@@ -1,0 +1,5 @@
+{
+ "message": "We decided that addressing the jarring experience of the layout shift was a higher priority than backwards compatibility. The compromise was to use CSS Grid as an enhancement and fallback to Flexbox and other techniques when needed",
+ "link": "https://slack.engineering/rebuilding-slack-com-b124c405c193",
+ "author": "Mina Markham"
+}
